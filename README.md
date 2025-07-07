@@ -32,4 +32,6 @@ pip install -r requirements.txt
  pytest tests/test_flight_booking.py --html=results/ddt_report.html -v
 
 ### Step 5: Sample Input data
+![image](https://github.com/user-attachments/assets/e791ecaa-85c9-439e-9b64-d01152b35675)
+
 

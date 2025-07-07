@@ -1,0 +1,206 @@
+2025-07-07 22:07:02,167 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:07:06,230 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:07:06,231 | INFO | flight_automation | Closed login popup
+2025-07-07 22:07:08,389 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:08:14,720 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:08:20,189 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:08:20,190 | INFO | flight_automation | Closed login popup
+2025-07-07 22:08:21,416 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:09:16,232 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:09:21,034 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:09:21,037 | INFO | flight_automation | Closed login popup
+2025-07-07 22:09:22,258 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:10:15,993 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:10:20,236 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:10:20,236 | INFO | flight_automation | Closed login popup
+2025-07-07 22:10:21,558 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:11:15,326 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:11:19,504 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:11:19,504 | INFO | flight_automation | Closed login popup
+2025-07-07 22:11:20,746 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:12:12,803 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:12:16,619 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:12:16,619 | INFO | flight_automation | Closed login popup
+2025-07-07 22:12:18,062 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:13:14,358 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:13:18,360 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:13:18,360 | INFO | flight_automation | Closed login popup
+2025-07-07 22:13:20,112 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:14:15,332 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:14:19,050 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:14:19,051 | INFO | flight_automation | Closed login popup
+2025-07-07 22:14:20,350 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:59:36,084 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 22:59:40,912 | INFO | pages.home_page | Closed login popup
+2025-07-07 22:59:40,912 | INFO | flight_automation | Closed login popup
+2025-07-07 22:59:42,300 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 22:59:43,484 | INFO | pages.flights_page | Entering From city: Mumbai
+2025-07-07 22:59:43,691 | INFO | pages.flights_page | Clicked suggestion: Mumbai, India (BOM)
+2025-07-07 22:59:44,224 | INFO | pages.flights_page | Entering To city: Delhi
+2025-07-07 22:59:44,340 | INFO | pages.flights_page | Clicked suggestion: New Delhi, India
+2025-07-07 22:59:45,142 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 22:59:45,271 | INFO | pages.flights_page | Selecting departure: August 2025 - Fri Aug 22 2025
+2025-07-07 22:59:46,062 | INFO | pages.flights_page | Departure date selected: Fri Aug 22 2025
+2025-07-07 22:59:46,764 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 22:59:46,879 | INFO | pages.flights_page | Selecting 2 Adults, Class: business
+2025-07-07 22:59:46,879 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 22:59:47,063 | INFO | pages.flights_page | Selected travel class: business
+2025-07-07 22:59:47,168 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 22:59:47,831 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 22:59:54,059 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 22:59:58,732 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 22:59:58,732 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:00:30,566 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:00:36,645 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:00:46,059 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:00:50,586 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:00:50,586 | INFO | flight_automation | Closed login popup
+2025-07-07 23:00:51,869 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:00:52,986 | INFO | pages.flights_page | Entering From city: Hubli
+2025-07-07 23:00:53,152 | INFO | pages.flights_page | Clicked suggestion: Hubli, India (HBX)
+2025-07-07 23:00:53,574 | INFO | pages.flights_page | Entering To city: Bengaluru
+2025-07-07 23:00:53,679 | INFO | pages.flights_page | Clicked suggestion: Bengaluru, India
+2025-07-07 23:00:54,549 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:00:54,674 | INFO | pages.flights_page | Selecting departure: July 2025 - Thu Jul 24 2025
+2025-07-07 23:00:54,781 | INFO | pages.flights_page | Departure date selected: Thu Jul 24 2025
+2025-07-07 23:00:55,376 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:00:55,463 | INFO | pages.flights_page | Selecting 1 Adults, Class: economy
+2025-07-07 23:00:55,541 | INFO | pages.flights_page | Selected travel class: economy
+2025-07-07 23:00:55,623 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:00:56,219 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:01:02,108 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:01:08,183 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:01:08,183 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:01:35,225 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:01:41,289 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:01:46,757 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:01:51,220 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:01:51,221 | INFO | flight_automation | Closed login popup
+2025-07-07 23:01:52,571 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:01:53,592 | INFO | pages.flights_page | Entering From city: Mumbai
+2025-07-07 23:01:53,744 | INFO | pages.flights_page | Clicked suggestion: Mumbai, India (BOM)
+2025-07-07 23:01:54,213 | INFO | pages.flights_page | Entering To city: Chennai
+2025-07-07 23:01:54,347 | INFO | pages.flights_page | Clicked suggestion: Chennai, India
+2025-07-07 23:01:55,288 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:01:55,400 | INFO | pages.flights_page | Selecting departure: July 2025 - Thu Jul 10 2025
+2025-07-07 23:01:55,498 | INFO | pages.flights_page | Departure date selected: Thu Jul 10 2025
+2025-07-07 23:01:56,069 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:01:56,154 | INFO | pages.flights_page | Selecting 1 Adults, Class: economy
+2025-07-07 23:01:56,227 | INFO | pages.flights_page | Selected travel class: economy
+2025-07-07 23:01:56,312 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:01:56,941 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:02:00,701 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:02:06,760 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:02:06,761 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:02:35,058 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:02:41,097 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:02:47,443 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:02:51,869 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:02:51,869 | INFO | flight_automation | Closed login popup
+2025-07-07 23:02:53,086 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:02:54,141 | INFO | pages.flights_page | Entering From city: Bengaluru
+2025-07-07 23:02:54,358 | INFO | pages.flights_page | Clicked suggestion: Bengaluru, India (BLR)
+2025-07-07 23:02:54,718 | INFO | pages.flights_page | Entering To city: Chennai
+2025-07-07 23:02:54,811 | INFO | pages.flights_page | Clicked suggestion: Chennai, India
+2025-07-07 23:02:55,570 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:02:55,683 | INFO | pages.flights_page | Selecting departure: August 2025 - Wed Aug 06 2025
+2025-07-07 23:02:56,406 | INFO | pages.flights_page | Departure date selected: Wed Aug 06 2025
+2025-07-07 23:02:57,009 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:02:57,113 | INFO | pages.flights_page | Selecting 2 Adults, Class: economy
+2025-07-07 23:02:57,113 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 23:02:57,243 | INFO | pages.flights_page | Selected travel class: economy
+2025-07-07 23:02:57,332 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:02:57,894 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:03:03,068 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:03:09,120 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:03:09,120 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:03:36,683 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:03:42,752 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:03:48,952 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:03:57,874 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:03:57,874 | INFO | flight_automation | Closed login popup
+2025-07-07 23:03:59,169 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:04:00,371 | INFO | pages.flights_page | Entering From city: Surat
+2025-07-07 23:04:00,501 | INFO | pages.flights_page | Clicked suggestion: Surat, India (STV)
+2025-07-07 23:04:01,517 | INFO | pages.flights_page | Entering To city: Kolkata
+2025-07-07 23:04:01,609 | INFO | pages.flights_page | Clicked suggestion: Kolkata, India
+2025-07-07 23:04:02,379 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:04:02,517 | INFO | pages.flights_page | Selecting departure: July 2025 - Thu Jul 10 2025
+2025-07-07 23:04:02,634 | INFO | pages.flights_page | Departure date selected: Thu Jul 10 2025
+2025-07-07 23:04:03,200 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:04:03,295 | INFO | pages.flights_page | Selecting 2 Adults, Class: economy
+2025-07-07 23:04:03,295 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 23:04:03,450 | INFO | pages.flights_page | Selected travel class: economy
+2025-07-07 23:04:03,547 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:04:04,250 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:04:08,378 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:04:14,437 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:04:14,437 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:04:41,829 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:04:47,911 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:04:53,435 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:04:58,125 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:04:58,125 | INFO | flight_automation | Closed login popup
+2025-07-07 23:04:59,512 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:05:00,667 | INFO | pages.flights_page | Entering From city: Delhi
+2025-07-07 23:05:00,854 | INFO | pages.flights_page | Clicked suggestion: New Delhi, India (DEL)
+2025-07-07 23:05:01,247 | INFO | pages.flights_page | Entering To city: Abu Dhabi
+2025-07-07 23:05:01,372 | INFO | pages.flights_page | Clicked suggestion: Abu Dhabi, United Arab Emirates
+2025-07-07 23:05:02,216 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:05:02,339 | INFO | pages.flights_page | Selecting departure: July 2025 - Fri Jul 18 2025
+2025-07-07 23:05:02,452 | INFO | pages.flights_page | Departure date selected: Fri Jul 18 2025
+2025-07-07 23:05:03,042 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:05:03,133 | INFO | pages.flights_page | Selecting 2 Adults, Class: Business
+2025-07-07 23:05:03,133 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 23:05:03,294 | INFO | pages.flights_page | Selected travel class: Business
+2025-07-07 23:05:03,377 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:05:03,907 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:05:07,439 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:05:12,007 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:05:12,007 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:05:42,760 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:05:48,817 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:05:54,584 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:05:58,648 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:05:58,648 | INFO | flight_automation | Closed login popup
+2025-07-07 23:06:00,414 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:06:01,541 | INFO | pages.flights_page | Entering From city: Pune
+2025-07-07 23:06:01,710 | INFO | pages.flights_page | Clicked suggestion: Pune, India (PNQ)
+2025-07-07 23:06:02,066 | INFO | pages.flights_page | Entering To city: Hyderabad
+2025-07-07 23:06:02,172 | INFO | pages.flights_page | Clicked suggestion: Hyderabad, India
+2025-07-07 23:06:03,179 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:06:03,294 | INFO | pages.flights_page | Selecting departure: September 2025 - Tue Sep 02 2025
+2025-07-07 23:06:04,637 | INFO | pages.flights_page | Departure date selected: Tue Sep 02 2025
+2025-07-07 23:06:05,206 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:06:05,307 | INFO | pages.flights_page | Selecting 2 Adults, Class: Economy
+2025-07-07 23:06:05,308 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 23:06:05,459 | INFO | pages.flights_page | Selected travel class: Economy
+2025-07-07 23:06:05,548 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:06:06,098 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:06:12,873 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:06:18,940 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:06:18,940 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:06:47,085 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:06:53,157 | INFO | pages.search_results_page | Adjusting One Way Price slider...
+2025-07-07 23:06:59,093 | INFO | flight_automation | Visiting Goibibo...
+2025-07-07 23:07:03,662 | INFO | pages.home_page | Closed login popup
+2025-07-07 23:07:03,662 | INFO | flight_automation | Closed login popup
+2025-07-07 23:07:04,963 | INFO | flight_automation | Flights tab opened and mini popup dismissed
+2025-07-07 23:07:06,093 | INFO | pages.flights_page | Entering From city: Delhi
+2025-07-07 23:07:06,251 | INFO | pages.flights_page | Clicked suggestion: New Delhi, India (DEL)
+2025-07-07 23:07:06,623 | INFO | pages.flights_page | Entering To city: Chandigarh
+2025-07-07 23:07:06,711 | INFO | pages.flights_page | Clicked suggestion: Chandigarh, India
+2025-07-07 23:07:07,550 | INFO | pages.flights_page | Opening departure date picker
+2025-07-07 23:07:07,664 | INFO | pages.flights_page | Selecting departure: September 2025 - Wed Sep 17 2025
+2025-07-07 23:07:08,986 | INFO | pages.flights_page | Departure date selected: Wed Sep 17 2025
+2025-07-07 23:07:09,541 | INFO | pages.flights_page | Opening travellers & class dropdown
+2025-07-07 23:07:09,624 | INFO | pages.flights_page | Selecting 2 Adults, Class: Premium Economy
+2025-07-07 23:07:09,625 | DEBUG | pages.flights_page | Clicked +1 Adult
+2025-07-07 23:07:09,784 | INFO | pages.flights_page | Selected travel class: Premium Economy
+2025-07-07 23:07:09,865 | INFO | pages.flights_page | Confirmed travellers & class selection
+2025-07-07 23:07:10,445 | INFO | pages.flights_page | Clicking SEARCH FLIGHTS button
+2025-07-07 23:07:12,757 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:07:17,528 | INFO | pages.search_results_page | Closing lock price popup
+2025-07-07 23:07:17,529 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:07:46,351 | INFO | pages.search_results_page | Attempting to close all known popups...
+2025-07-07 23:07:52,427 | INFO | pages.search_results_page | Adjusting One Way Price slider...

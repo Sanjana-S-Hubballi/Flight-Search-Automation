@@ -1,0 +1,98 @@
+[
+  {
+    "From": "Mumbai",
+    "FromSuggestion": "Mumbai, India (BOM)",
+    "To": "Delhi",
+    "ToSuggestion": "New Delhi, India",
+    "DepartureMonthYear": "August 2025",
+    "DepartureDateAria": "Fri Aug 22 2025",
+    "Adults": 2,
+    "TravelClass": "business",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Hubli",
+    "FromSuggestion": "Hubli, India (HBX)",
+    "To": "Bengaluru",
+    "ToSuggestion": "Bengaluru, India",
+    "DepartureMonthYear": "July 2025",
+    "DepartureDateAria": "Thu Jul 24 2025",
+    "Adults": 1,
+    "TravelClass": "economy",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Mumbai",
+    "FromSuggestion": "Mumbai, India (BOM)",
+    "To": "Chennai",
+    "ToSuggestion": "Chennai, India",
+    "DepartureMonthYear": "July 2025",
+    "DepartureDateAria": "Thu Jul 10 2025",
+    "Adults": 1,
+    "TravelClass": "economy",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Bengaluru",
+    "FromSuggestion": "Bengaluru, India (BLR)",
+    "To": "Chennai",
+    "ToSuggestion": "Chennai, India",
+    "DepartureMonthYear": "August 2025",
+    "DepartureDateAria": "Wed Aug 06 2025",
+    "Adults": 2,
+    "TravelClass": "economy",
+    "FareType": "Senior citizen",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Surat",
+    "FromSuggestion": "Surat, India (STV)",
+    "To": "Kolkata",
+    "ToSuggestion": "Kolkata, India",
+    "DepartureMonthYear": "July 2025",
+    "DepartureDateAria": "Thu Jul 10 2025",
+    "Adults": 2,
+    "TravelClass": "economy",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Delhi",
+    "FromSuggestion": "New Delhi, India (DEL)",
+    "To": "Abu Dhabi",
+    "ToSuggestion": "Abu Dhabi, United Arab Emirates",
+    "DepartureMonthYear": "July 2025",
+    "DepartureDateAria": "Fri Jul 18 2025",
+    "Adults": 2,
+    "TravelClass": "Business",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Pune",
+    "FromSuggestion": "Pune, India (PNQ)",
+    "To": "Hyderabad",
+    "ToSuggestion": "Hyderabad, India",
+    "DepartureMonthYear": "September 2025",
+    "DepartureDateAria": "Tue Sep 02 2025",
+    "Adults": 2,
+    "TravelClass": "Economy",
+    "FareType": "Student",
+    "Stops": "Non Stop"
+  },
+  {
+    "From": "Delhi",
+    "FromSuggestion": "New Delhi, India (DEL)",
+    "To": "Chandigarh",
+    "ToSuggestion": "Chandigarh, India",
+    "DepartureMonthYear": "September 2025",
+    "DepartureDateAria": "Wed Sep 17 2025",
+    "Adults": 2,
+    "TravelClass": "Premium Economy",
+    "FareType": "Armed Forces",
+    "Stops": "Non Stop"
+  }
+]
